@@ -1,2 +1,2 @@
-# Useful_References_For_Electronics_AND_EmbeddedSystems
+# Useful_References
 Useful references for electronics and embedded systems
