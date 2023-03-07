@@ -1,6 +1,10 @@
 # Useful_References
 Useful references for electronics and embedded systems
 
+# Electronics
+| # | Reference Title | Author(s) | Link | Recommended By |
+| - | --------------- | --------- | ---- | -------------- |
+| 1 | The Art of Electronics | Paul Horowitz, Winfield Hill | [Link](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266) | - |
 
 # High Speed Digital Design
 | # | Reference Title | Author(s) | Link | Recommended By |
