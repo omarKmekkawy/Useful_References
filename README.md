@@ -16,10 +16,11 @@ Useful references for electronics and embedded systems
 | - | --------------- | --------- | ---- | -------------- |
 | 1 | Power Electronics Step-by-Step: Design, Modeling, Simulation, and Control | Weidong Xiao | [Link](https://books.google.com.eg/books?id=b00TEAAAQBAJ) | [Link](https://www.youtube.com/watch?v=k9tx88upmdU) |
 
-# PCB Design
+# PCB Design - Electronics - Hardware
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
 | 1 | EMC at Component and PCB Level | Martin O 'Hara | [Link](https://www.elsevier.com/books/emc-at-component-and-pcb-level/o-hara/978-0-7506-3355-0) | - |
+| 2 | Open Circuits: The Inner Beauty of Electronic Components | Windell Oskay, Eric Schlaepfer | [Link](https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components/dp/1718502346) | [Link](https://opencircuitsbook.com/) |
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
