@@ -19,3 +19,8 @@ Useful references for electronics and embedded systems
 # PCB Design
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
+
+# Reverse Engineering - hardware Hacking
+| # | Reference Title | Author(s) | Link | Recommended By |
+| - | --------------- | --------- | ---- | -------------- |
+| 1 | The Art of PCB Reverse Engineering (Standard Edition): Unravelling the Beauty of the Original Design | Mr Keng Tiong Ng | [Link](https://www.amazon.com/gp/product/151880053X/) | - |
