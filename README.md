@@ -14,6 +14,7 @@ Useful references for electronics and embedded systems
 | 8 | The Circuit Designer's Companion | Peter Wilson | [Link](https://www.amazon.com/Circuit-Designers-Companion-Peter-Wilson/dp/0080971385) | - |
 | 9 | PCB Design for Real-World EMI Control | Bruce R. Archambeault, James Drewniak | [Link](https://www.amazon.com/Real-World-Springer-International-Engineering-Computer/dp/1402071302) | - |
 | 10 | Electromagnetic Compatibility Engineering | Henry W. Ott | [Link](https://www.amazon.com/Electromagnetic-Compatibility-Engineering-Henry-Ott/dp/0470189304) | - |
+| 11 | Electronic Devices | Thomas L. Floyd | [Link](https://www.amazon.com/Electronic-Devices-Thomas-L-Floyd/dp/1292222999) | - |
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
