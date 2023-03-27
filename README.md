@@ -26,3 +26,9 @@ Useful references for electronics and embedded systems
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
 | 1 | Power Electronics Step-by-Step: Design, Modeling, Simulation, and Control | Weidong Xiao | [Link](https://books.google.com.eg/books?id=b00TEAAAQBAJ) | [Link](https://www.youtube.com/watch?v=k9tx88upmdU) |
+
+# Embedded Systems
+| # | Reference Title | Author(s) | Link | Recommended By |
+| - | --------------- | --------- | ---- | -------------- |
+| 1 | Reusable Firmware Development | Jacob Beningo | [Link](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach/dp/1484232968) | - |
+
