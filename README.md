@@ -11,6 +11,7 @@ Useful references for electronics and embedded systems
 | 5 | EMC at Component and PCB Level | Martin O 'Hara | [Link](https://www.elsevier.com/books/emc-at-component-and-pcb-level/o-hara/978-0-7506-3355-0) | - |
 | 6 | Teach Yourself Electricity and Electronics | Stan Gibilisco, Simon Monk | [Link](https://www.amazon.com/Teach-Yourself-Electricity-Electronics-Sixth/dp/1259585530) | - |
 | 7 | Bird's Electrical and Electronic Principles and Technology | John Bird | [Link](https://www.amazon.com/Birds-Electrical-Electronic-Principles-Technology-ebook/dp/B0933L77ZD) | - |
+| 8 | The Circuit Designer's Companion | Peter Wilson | [Link](https://www.amazon.com/Circuit-Designers-Companion-Peter-Wilson/dp/0080971385) | - |
 
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
@@ -32,3 +33,7 @@ Useful references for electronics and embedded systems
 | - | --------------- | --------- | ---- | -------------- |
 | 1 | Reusable Firmware Development | Jacob Beningo | [Link](https://www.amazon.com/Reusable-Firmware-Development-Practical-Approach/dp/1484232968) | - |
 
+# RF
+| # | Reference Title | Author(s) | Link | Recommended By |
+| - | --------------- | --------- | ---- | -------------- |
+| 1 | RF Microelectronics | Behzad Razavi  | [Link](https://www.amazon.com/Microelectronics-Communications-Engineering-Technologies-Rappaport/dp/0137134738) | - |
