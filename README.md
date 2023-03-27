@@ -9,6 +9,7 @@ Useful references for electronics and embedded systems
 | 3 | Practical Electronics for Inventors | by Paul Scherz , Simon Monk | [Link](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) | - |
 | 4 | Open Circuits: The Inner Beauty of Electronic Components | Windell Oskay, Eric Schlaepfer | [Link](https://www.amazon.com/Open-Circuits-Beauty-Electronic-Components/dp/1718502346) | [Link](https://opencircuitsbook.com/) |
 | 5 | EMC at Component and PCB Level | Martin O 'Hara | [Link](https://www.elsevier.com/books/emc-at-component-and-pcb-level/o-hara/978-0-7506-3355-0) | - |
+| 6 | Teach Yourself Electricity and Electronics | Stan Gibilisco, Simon Monk | [Link](https://www.amazon.com/Teach-Yourself-Electricity-Electronics-Sixth/dp/1259585530) | - |
 
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
