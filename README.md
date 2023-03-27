@@ -19,7 +19,7 @@ Useful references for electronics and embedded systems
 # PCB Design
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
-
+| 1 | EMC at Component and PCB Level | Martin O 'Hara | [Link](https://www.elsevier.com/books/emc-at-component-and-pcb-level/o-hara/978-0-7506-3355-0) | - |
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
