@@ -20,6 +20,7 @@ Useful references for Electronics, Embedded Systems, Computer Engineering, and m
 | 10 | Electromagnetic Compatibility Engineering | Henry W. Ott | [Link](https://www.amazon.com/Electromagnetic-Compatibility-Engineering-Henry-Ott/dp/0470189304) | - |
 | 11 | Electronic Devices | Thomas L. Floyd | [Link](https://www.amazon.com/Electronic-Devices-Thomas-L-Floyd/dp/1292222999) | - |
 | 12 | GROB’S BASIC ELECTRONICS | Mitchel Schultz | [Link](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Mitchel+Schultz&text=Mitchel+Schultz&sort=relevancerank&search-alias=books) | [Hackaday](https://hackaday.com/2016/08/19/books-you-should-read-basic-electronics/) |
+| 13 | GETTING STARTED IN ELECTRONICS | Thomas L. Floyd | [Link](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/B001QTFKK4) | [Hackaday](https://hackaday.com/2016/08/19/books-you-should-read-basic-electronics/) |
 
 # Reverse Engineering - hardware Hacking
 | # | Reference Title | Author(s) | Link | Recommended By |
