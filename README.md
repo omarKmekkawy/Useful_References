@@ -1,5 +1,9 @@
 # Useful_References
-Useful references for electronics and embedded systems
+Useful references for Electronics, Embedded Systems, Computer Engineering, and more ...
+
+<p align="center">
+  <img width="100%" height="100%" src="./Pictures/Electronics-references-books.png">
+</p>
 
 # Electronics - PCB Design - Hardware
 | # | Reference Title | Author(s) | Link | Recommended By |
