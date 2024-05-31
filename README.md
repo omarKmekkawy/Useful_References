@@ -46,3 +46,8 @@ Useful references for Electronics, Embedded Systems, Computer Engineering, and m
 | # | Reference Title | Author(s) | Link | Recommended By |
 | - | --------------- | --------- | ---- | -------------- |
 | 1 | RF Microelectronics | Behzad Razavi  | [Link](https://www.amazon.com/Microelectronics-Communications-Engineering-Technologies-Rappaport/dp/0137134738) | - |
+
+# Software
+| # | Reference Title | Author(s) | Link | Recommended By |
+| - | --------------- | --------- | ---- | -------------- |
+| 1 | Grokking Algorithms | Aditya Y. Bhargava | [Link](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) | - |
